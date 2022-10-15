@@ -3,7 +3,7 @@
 An open-source data project using Python and Tableau to explore trends in happiness and determine which factors contribute the most to a country’s happiness score as a part of Data Analytics course at CareerFoundry.
 
 ## Scenario
- To find an open-sourced data set and analyze, with the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring. After developing hypotheses, various advanced analytical approaches should be used to help testing the hypotheses.
+To find an open-sourced data set and analyze, with the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring. After developing hypotheses, various advanced analytical approaches should be used to help testing the hypotheses.
 
 ## Data 
 Open source data: the World Happiness Report, which is a survey that ranks participating countries based off of their overall happiness available [here](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
