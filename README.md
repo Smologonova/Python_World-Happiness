@@ -3,9 +3,8 @@
 An open-source data project using Python and Tableau to explore trends in happiness and determine which factors contribute the most to a country’s happiness score as a part of Data Analytics course at CareerFoundry.
 
 ## Scenario
-To find an open-sourced data set and analyze, with the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring. After developing hypotheses, various advanced analytical approaches should be used to help testing the hypotheses.
-
 The World Happiness Report is a landmark survey that measures and ranks the happiness of individuals in 158 countries around the globe. Happiness is increasingly considered an important and useful way to guide public policy and measure its effectiveness. 
+
 The World Happiness Report 2015 was launched by the Sustainable Development Solutions Network (SDSN). The World Happiness Report 2017 was released at the United Nations at an event celebrating International Day of Happiness on March 20th.
 
 ## Objective
@@ -33,7 +32,9 @@ Dystopia is an imaginary country that has the world’s least-happy people. The 
 
 ## Data Limitations & Ethics
 The data is collected via survey based on random sample of respondents. Therefore, it might lead to sample errors.
+
 It was the damaging effects of social media use on the happiness and self-image of adolescents, mainly based on data from the United States in the World Happiness Report 2019. This runs parallel to evidence from earlier Reports showing that in-person friendships support happiness, while online connections do not. But COVID-19 and its limitations on in-person meetings offered a chance for electronic connections to develop their potential for creating and maintaining the social bonds that support happiness.
+
 There is no PII in the dataset and therefore it is considered as low-risk in terms of ethics. The measurement was conducted based on a country level; thus, group of people and small communities can’t be identified.
 
 ## Data Relevance
